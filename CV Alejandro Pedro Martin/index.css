@@ -1,0 +1,55 @@
+section {
+    width: 90%;
+    border: 5px solid #B695C0;
+    padding: 10px;
+    margin: 20px;
+   
+  }
+     
+     .hide {
+     display: none;
+     }
+     
+     .show {
+     display: block;
+     }
+     
+     div.relative {
+    position: relative;
+    border:solid 60% #cdb2d6;
+  background-color: #cdb2d6;
+      width:100%;
+      }
+          img {
+    border-radius: 50%;
+  }
+  @font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
+* {
+   font-family: myFirstFont;
+}
+ 
+  
+          .button {
+  
+  border-radius: 4px;
+  background-color: #cdb2d6;
+  border: none;
+     color: black;
+  text-align: center;
+  font-size: 28px;
+     padding: 20px;
+     transition: all 0.5s;
+     cursor: pointer;
+     margin: 5px;
+  
+          }
+          
+        div.texto justificado {
+        text-align: justify;
+        }
+
+        
